@@ -58,3 +58,5 @@ STATE:1,0,0,1,0,1
 ----------------------------------------------
 IK1APW © 2025 - Tutti i diritti riservati
 ----------------------------------------------
+## License
+This project is released under the MIT License.
