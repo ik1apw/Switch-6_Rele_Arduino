@@ -62,4 +62,4 @@ IK1APW © 2025 - Tutti i diritti riservati
 This project is released under the MIT License.
 
 ----------------------------------------------
-![Downloads](https://img.shields.io/github/downloads/ik1apw/DMR-APRS-ROUTER/total?style=for-the-badge&color=green)
+![Downloads](https://img.shields.io/github/downloads/ik1apw/Switch-6_Rele_Arduino/tree/main/total?style=for-the-badge&color=green)
