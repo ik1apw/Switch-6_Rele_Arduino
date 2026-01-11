@@ -60,3 +60,6 @@ IK1APW © 2025 - Tutti i diritti riservati
 ----------------------------------------------
 ## License
 This project is released under the MIT License.
+
+----------------------------------------------
+![Downloads](https://img.shields.io/github/downloads/ik1apw/DMR-APRS-ROUTER/total?style=for-the-badge&color=green)
